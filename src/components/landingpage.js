@@ -8,7 +8,7 @@ class Landing extends Component {
            <div style = {{width: '100%', margin: 'auto'}}>
                <Grid className = "landing-grid">
                    <Cell col = {12} >
-                   <img src = "https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                   <img src = "https://github.com/SriSaiKrishnan/myportfolio/blob/master/src/DP.jpeg?raw=true"
                    alt = "avater"
                    className = "avatar-img">
                    </img>

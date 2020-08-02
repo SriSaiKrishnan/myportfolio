@@ -9,7 +9,7 @@ class Contact extends Component {
               <Cell col={6}>
                 <h2>Sri Sai Krishnan V</h2>
                 <img
-                  src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                  src="https://github.com/SriSaiKrishnan/myportfolio/blob/master/src/DP.jpeg?raw=true"
                   alt="avatar"
                   style={{height: '250px'}}
                    />
