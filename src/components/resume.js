@@ -60,14 +60,15 @@ class Resume extends Component {
                 startYear={2019}
                 endYear = {2020}
                 jobName="Software Engineer in Test"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                jobDescription="Responsible for delivering the Scrum team commitments i,e to analyze business needs and collaborate with the Product Owner to create test plans, cases, and scripts, and their acceptance criteria, design, develop, test, and deploy test automation code.
+                Part of Release Testing Team to make sure there are no Showstoppers in the application before releasing the product to production by Executing Risk-Based Tests, Initial Verification Test and Exploratory."
                 />
 
               <Experience
                 startYear={2018}
                 endYear={2019}
                 jobName="Test Engineer"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                jobDescription=""
                 />
 
             <Experience
