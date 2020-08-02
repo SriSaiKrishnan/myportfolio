@@ -14,7 +14,7 @@ class Projects extends Component {
                 <div className="projects-grid">
                 {/* Project 1 */}
                 <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #1</CardTitle>
+                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png) center / cover'}} >React Project #1</CardTitle>
                   <CardText>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                   </CardText>
@@ -28,7 +28,7 @@ class Projects extends Component {
       
                 {/* Project 2 */}
                 <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #2</CardTitle>
+                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png) center / cover'}} >React Project #2</CardTitle>
                   <CardText>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                   </CardText>
@@ -42,7 +42,7 @@ class Projects extends Component {
       
                 {/* Project 3 */}
                 <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #3</CardTitle>
+                  <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png) center / cover'}} >React Project #3</CardTitle>
                   <CardText>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                   </CardText>
@@ -60,7 +60,7 @@ class Projects extends Component {
               <div className="projects-grid">
               {/* Project 1 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #1</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xebialabs.com/wp-content/uploads/files/tool-chest/appium.jpg) center / cover'}} >React Project #1</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -74,7 +74,7 @@ class Projects extends Component {
     
               {/* Project 2 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #2</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xebialabs.com/wp-content/uploads/files/tool-chest/appium.jpg) center / cover'}} >React Project #2</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -88,7 +88,7 @@ class Projects extends Component {
     
               {/* Project 3 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #3</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xebialabs.com/wp-content/uploads/files/tool-chest/appium.jpg) center / cover'}} >React Project #3</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -106,7 +106,7 @@ class Projects extends Component {
               <div className="projects-grid">
               {/* Project 1 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #1</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2020/02/restassured.png) center / cover'}} >React Project #1</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -120,7 +120,7 @@ class Projects extends Component {
     
               {/* Project 2 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #2</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2020/02/restassured.png) center / cover'}} >React Project #2</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -134,7 +134,7 @@ class Projects extends Component {
     
               {/* Project 3 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #3</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2020/02/restassured.png) center / cover'}} >React Project #3</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -152,7 +152,7 @@ class Projects extends Component {
               <div className="projects-grid">
               {/* Project 1 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #1</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/java-logo.png) center / cover'}} >React Project #1</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -166,7 +166,7 @@ class Projects extends Component {
     
               {/* Project 2 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #2</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/java-logo.png) center / cover'}} >React Project #2</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
@@ -180,7 +180,7 @@ class Projects extends Component {
     
               {/* Project 3 */}
               <Card shadow={5} style={{minWidth: '450', margin: '2%'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >React Project #3</CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/java-logo.png) center / cover'}} >React Project #3</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                 </CardText>
